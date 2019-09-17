@@ -27,6 +27,7 @@ None
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
+[Rotary Encoder](https://www.youtube.com/watch?v=udxzOorPNVE&feature=youtu.be)
 
 
 ## Part D. Make your Arduino sing!
