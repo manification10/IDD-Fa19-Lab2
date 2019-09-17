@@ -33,12 +33,24 @@ None
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+```int noteDuration = 1000 / noteDurations[thisNote];```
  
 **b. What song is playing?**
-
+Not sure!
 
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+I built a timer based game where the player has to press the Pressure Resistor to increase the Resistance and bring the sensor value to 100 in 5 seconds. 
+The game starts when the switch on the board is pressed. And the timer of 5 seconds begin. 
+If the player is able to come to 100 in 5 seconds, then the player wins the game and the game stops. Celebrating the win with a cool tune. 
+![Win](./won_status.png)
+If the player can't come to 100 in 5 seconds, the timer expires and the game is lost. The timer stops with an alarm and a different tune is output in the speaker. 
+![Lose](./lost_status.png)
+Throughout the game, the player can see the sensor value on the Serial Monitor!
+Board setup!
+![Board Setup](./board_setup.jpeg)
+[Timer Game](https://photos.app.goo.gl/u2yzh9HTDgzPfvKL8)
+
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
