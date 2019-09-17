@@ -58,6 +58,9 @@ Throughout the game, the player can see the sensor value on the Serial Monitor!
 Board setup!
 ![Board Setup](./board_setup.jpeg)
 
+Code for the game!
+[Lowly Multimeter Code](./own_timer.ino)
+
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
 
